@@ -17,7 +17,7 @@ class Produk{
 		$this->harga = $harga; 
 
 	
-	}
+	}   
 
 
 	public function setJudul( $judul ){

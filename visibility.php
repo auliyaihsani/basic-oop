@@ -17,7 +17,7 @@ class Produk{
 
 	
 	}
-
+  
 	
 
 	public function getHarga(){

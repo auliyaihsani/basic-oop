@@ -19,6 +19,8 @@ class Produk{
 	}
 }
 
+
+
 $produk1 = new Produk("fairy tail", "hiromishima", "shonen jump", 10.000);
 $produk2 = new Produk("metal gear", "hideo kojima", "konami", 500000 );
 $produk3 = new Produk("naruto");

@@ -7,7 +7,7 @@ class Produk{
 		   $harga,
 		   $jmlHalaman,
 		   $waktuMain,
-		   $tipe;
+		   $tipe;  
 
 	public function __construct($judul ="judul", $penulis="penulis", $penerbit="penerbit", $harga=0, $jmlHalaman= 0, $waktuMain =0, $tipe ){
 		$this->judul = $judul;

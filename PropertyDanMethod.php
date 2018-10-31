@@ -12,7 +12,7 @@ class Produk{
 	}
 }
 
-
+   
 
 // instance
 $produk3 = new Produk;
